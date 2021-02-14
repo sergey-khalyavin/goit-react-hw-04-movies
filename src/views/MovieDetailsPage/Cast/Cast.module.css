@@ -1,0 +1,20 @@
+.castList {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.castItem {
+  padding: 5px;
+  width: 150px;
+  margin-bottom: 15px;
+  font-size: 12px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+.castName {
+  margin: 8px 0;
+}

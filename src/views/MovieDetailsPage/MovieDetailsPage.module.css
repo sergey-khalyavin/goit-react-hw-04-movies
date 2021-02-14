@@ -1,0 +1,20 @@
+.titleMovie {
+  font-size: 28px;
+  color: #523030;
+  padding-left: 40px;
+}
+
+.imgMovie {
+  padding-left: 30px;
+}
+
+.link {
+  padding-left: 30px;
+  font-size: 20px;
+  color: #212121;
+  text-decoration: underline;
+}
+
+.activeLink {
+  color: palevioletred;
+}

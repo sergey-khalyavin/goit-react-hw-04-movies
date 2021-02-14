@@ -1,0 +1,21 @@
+.form {
+  padding: 20px;
+  display: flex;
+}
+
+.btn {
+  padding: 5px 15px;
+  border: 1px solid #909090;
+  background-color: #ff3b76;
+  border-left: none;
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s linear;
+
+  &:active {
+    background-color: #d2ebff;
+  }
+}
